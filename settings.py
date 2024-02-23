@@ -26,7 +26,7 @@ PURPLE = '#7b217f'
 CYAN = '#6cc6d9'
 ORANGE = '#f07e13'
 GRAY = '#1C1C1C'
-LINE_COLOR = '#FFFFFF'
+LINE_COLOR = '#808080'
 
 TETROMINOS = {
     'T': {'shape': [(0, 0), (-1, 0), (1, 0), (0, -1)], 'color': PURPLE},
